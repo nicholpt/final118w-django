@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "C:\\Users\\ninja\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+    "python.linting.pylintEnabled": true,
+
+    "python.linting.mypyArgs": [
+        "--ignore-missing-imports",
+        "--follow-imports=silent"
+        
+    ],
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django",
+        "--errors-only"
+    ],
+
+}
