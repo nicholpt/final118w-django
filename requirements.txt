@@ -24,7 +24,7 @@ django-celery==3.2.2
 django-celery-results==1.0.4
 django-ckeditor-filebrowser-filer==0.2.0b12
 django-classy-tags==0.8.0
-django-cms==3.4.5
+django-cms==3.4.7
 django-compressor==2.2
 django-crispy-forms==1.7.2
 django-elasticsearch-dsl==0.5.1
