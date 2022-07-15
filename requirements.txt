@@ -21,7 +21,7 @@ django-allauth==0.35.0
 django-angular==2.0.0
 django-appconf==1.0.2
 django-celery==3.2.2
-django-celery-results==1.0.4
+django-celery-results==2.4.0
 django-ckeditor-filebrowser-filer==0.2.0b12
 django-classy-tags==0.8.0
 django-cms==3.4.5
